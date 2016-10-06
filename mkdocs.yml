@@ -1,0 +1,5 @@
+site_name: SrgViz Lib Documentation
+theme: readthedocs
+docs_dir: .
+pages:
+- {Home: index.md}
